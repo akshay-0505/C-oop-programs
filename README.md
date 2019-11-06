@@ -1,2 +1,2 @@
-# C-oop-programs
+# C++oop-programs
 C++ programs based on object oriented programing concepts...
